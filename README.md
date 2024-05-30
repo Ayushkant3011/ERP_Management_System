@@ -10,4 +10,6 @@ Steps to Run this Project:
 6. after that open XAMPP Control panel.
 7. then start Apache and MySQL Servers.
 8. then go to your web browser.
-9. then in your url type localhost/ums.
+9. Then in your url type phpmyadmin.
+10. then import the database file into this.
+11. then in your url type localhost/ums.
